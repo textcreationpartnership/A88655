@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Old sayings and predicitons verified and fulfilled touching the young King of Scotland and his gued subjects.</title>
+            <author>J. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88655</idno>
+            <idno type="STC">Wing L35</idno>
+            <idno type="STC">Thomason 669.f.16[13]</idno>
+            <idno type="STC">ESTC R211301</idno>
+            <idno type="EEBO-CITATION">99870031</idno>
+            <idno type="PROQUEST">99870031</idno>
+            <idno type="VID">163170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88655)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163170)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Old sayings and predicitons verified and fulfilled touching the young King of Scotland and his gued subjects.</title>
+                  <author>J. L.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J.L. Philalethes.</note>
+                  <note>First part is in verse - "This embleme needs no learned exposition,".</note>
+                  <note>Annotation on Thomason copy: "July 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:163170:1" rendition="simple:additions"/>
+            <head>Old SAYINGS and PREDICTIONS Verified and fulfilled, Touching the young King of <hi>SCOTLAND</hi> and his gued Subjects</head>
+            <epigraph>
+               <q>
+                  <sp>
+                     <speaker>Jockey.</speaker>
+                     <l>I Jockey turne the ſtone of all your plots,</l>
+                     <l>For none turnes faſter then the turne coat Scots.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Presbyter.</speaker>
+                     <l>We for our ends did make thee King be ſure,</l>
+                     <l>Not to <gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>le us, we will not that endure.</l>
+                  </sp>
+                  <sp>
+                     <speaker>King.</speaker>
+                     <l>You deep diſſemblers I know what you doe,</l>
+                     <l>And for revenges ſake, I will diſſemble too.</l>
+                  </sp>
+               </q>
+            </epigraph>
+            <p>
+               <figure>
+                  <head>THE SCOTS HOLDING THEIR YOVNG KINGES NOSE TO Y<hi rend="sup">E</hi> GRINSTONE</head>
+                  <l>
+                     <hi>Come to the Grinſtone Charles tis now to late</hi>
+                  </l>
+                  <l>
+                     <hi>To Recolect tis preſbiterian fate</hi>
+                  </l>
+                  <l>
+                     <hi>You Couinant pretenders must Ibee:</hi>
+                  </l>
+                  <l>
+                     <hi>The ſubiect of youer Tradgie Comedie:</hi>
+                  </l>
+               </figure>
+            </p>
+            <l>THis Embleme needs no learned Expoſition,</l>
+            <l>The World knows well enough the ſad condi<g ref="char:EOLhyphen"/>tion</l>
+            <l>Of regall Power, and Prerogative</l>
+            <l>Dead, and dethron'd in <hi>England,</hi> now alive</l>
+            <l>In <hi>Scotland,</hi> where they ſeeme to love the Lad,</l>
+            <l>If hee'l be more obſequious then his Dad.</l>
+            <l>And Act according to Kirk Principles,</l>
+            <l>More ſubtile then were Delphick Oracles.</l>
+            <l>For let him lye, diſſemble, kill and ſlay,</l>
+            <l>Hee's a good Prince that will the Kirk obey.</l>
+            <l>This blind obedience teach the Popes of <hi>Rome,</hi>
+            </l>
+            <l>And Popes of <hi>Lambeth</hi> we have had at home:</l>
+            <l>Whoſe doctrine made our Engliſh royall State</l>
+            <l>As odious as the Italian Potentate.</l>
+            <l>But now the <hi>Scots</hi> all falſhoods do engroſſe,</l>
+            <l>And will defend them with St. <hi>Andrews</hi> Croſs.</l>
+            <l>They will proteſt againſt all violence,</l>
+            <l>'Gainſt ſacred Kings, yet blaſt their innocence.</l>
+            <l>Abhor that Civil Power that dares take</l>
+            <l>The life of Kings away, yet way will make</l>
+            <l>For juſtice ſtroke both by their Tongue and Pen,</l>
+            <l>And then accuſe our State for Murthering men.</l>
+            <l>Did not the Kirk-men Preſbyrerian <hi>Scots</hi>
+            </l>
+            <l>Thus Crowne and Scepter with the righteous ſpots</l>
+            <l>Of blood and tyrannie beſmeare, and ſtir our State</l>
+            <l>To doe Heroick Juſtice, and t'expiate</l>
+            <l>With blood the blood of many thouſands ſpilt</l>
+            <l>By one whom they more infamous with guilt</l>
+            <l>Of horrid murther made, then all thoſe ten</l>
+            <l>Vile perſecuting Emperours and monſtrous men?</l>
+            <l>But Law and Juſtice at the laſt being done</l>
+            <l>On the hated Father, now they love the Son,</l>
+            <l>And now have Crown'd their Convert Proſelyte,</l>
+            <l>Whom they adore, if he adore the right,</l>
+            <l>And dictates of the Scottiſh Hierarchie,</l>
+            <l>With which the Crowne and Scepter muſt comply,</l>
+            <l>And be ſubordinate unto, for Kirk muſt rule,</l>
+            <l>This is a <hi>Tenet</hi> of the Romiſh Schoole.</l>
+            <l>Then ſtoop gued King, it was thy Fathers Fate</l>
+            <l>To be ſo indulgent to that grand Prelate,</l>
+            <l>Whoſe old impoſtures now have gul'd, and can</l>
+            <l>Transforme a Scottiſh <hi>Levite</hi> from a man</l>
+            <l>Into a Monſter <hi>Sphinx,</hi> whoſe knotty ſenſe</l>
+            <l>In his darke riddles nones intelligence</l>
+            <l>Could extricate; ſo Kirk-mens ſubtile ſtiles</l>
+            <l>Wrapt in religious Covenants beguiles</l>
+            <l>The Laick Jockies, who at their command</l>
+            <l>Will daret invade and ſpoile their Neighbours Land.</l>
+            <l>Turne Jockie turne (for gold will turne thy heart</l>
+            <l>And make thee to renounce in Chriſt a part)</l>
+            <l>The Grindſtone to make ſharp thy Levites Laws</l>
+            <l>Or elſe t'abate the edge of regall Cauſe,</l>
+            <l>And priviledge. And Jockie for thy paines</l>
+            <l>Great treaſures, pleaſures, offices, and gaynes</l>
+            <l>Shall be thy large Reward when <hi>England</hi>'s wonne,</l>
+            <l>Till then hang on the hopes which thou haſt ſpunne.</l>
+            <l>Loe here the Chicken of the Eagle lies</l>
+            <l>Like to be made a Scottiſh Sacrifice.</l>
+            <l>But, wants he King-craft to create a Plot</l>
+            <l>To undermine the Sicophanting <hi>Scot?</hi>
+            </l>
+            <l>No; hee'l a Preſbyterian Brother be,</l>
+            <l>And vow to ratifie their Hierarchie,</l>
+            <l>Nay more, hee'l not diſdaine in ſhew to be</l>
+            <l>Subject to their proud Kirk's Supremacie:</l>
+            <l>The Sins of's Fathers houſe he will bewaile,</l>
+            <l>Mourne and lament under a Scottiſh Veile.</l>
+            <l>But this religious mock we all ſhall ſee,</l>
+            <l>Will ſoone the downfall of their <hi>Fabel</hi> be.</l>
+            <l>Rouze up true Engliſh Hearts and let them ſee</l>
+            <l>The ſad effects of Mask't Hypocriſie,</l>
+            <l>Curbe their proud hearts that they in time may know</l>
+            <l>That God is working of their overthrow.</l>
+            <l>Yet why ſhould valiant Souldiers fight and toyle</l>
+            <l>To get the nothing of a barren ſoyle?</l>
+            <l>And for a ſpeedy iſſue to theſe wars</l>
+            <l>Heaven ſend them ſtore of fearfull fatall jarres.</l>
+            <l>As in a Glaſſe, that they (though late) may ſee</l>
+            <l>What 'tis attends the STEWARD's Family.</l>
+            <div type="to_the_reader">
+               <p>
+                  <seg rend="decorInit">C</seg>Ourteous Reader, Although this Emblme doth chieſly repreſent the Rigid Presbyterie of <hi>Scotland,</hi> yet it is too apparent, they have many Friends both of the Clergy and Gentry in <hi>England,</hi> that are not behind hand in aſſiſting them, in their preſent actings, and for ſo much as concernes our preſent occaſion, I ſhall briefly cite Mr. <hi>Lilie's</hi> words expreſſed in his Aſtrologicall predictions this preſent yeare, 1651. wherein he ingeniouſly confeſſeth, he hath no malice, either to Presbyterian or Malignant, except they diſturb our quiet, and moleſt our preſent Government and Councell of State; but in the ſecond page of his booke, he deſcribs the Parliament of <hi>England's</hi> perfectionall figure, for the 11. yeare of their ſitting, from which he concludes the Genuine ſenſe of that quadrant aſpect, runns thus, or doth ſignifie in effect thus, that our preſent ſtate ſhall be ſtill, a great part of this yeare dangerouſly moleſted and peſtered by a refractorie people of their owne, called a Scotified Clergy, a generation of men from whom both the Spirit of Truth, and the meeke Spirit of obedience, due by the Lawes of God unto their Superiors is departed: certainly theſe men doe our Parliament more miſchiefe, and whole Nation moe pre<g ref="char:EOLhyphen"/>judice, then an Army of Forraigne Forces would doe, let God reward them according to their iniquity; from the ſecond figure, he concludes, that the preſent power or Counſell of State ſhall ſtand firme, and ſhall not be diſſolved, by any earthly power, worldly force or treacherie, during this annuall reſolution. Obſerve this alſo, <hi>viz.</hi> That forty yeares were the Engliſh under the government of two Scottiſh Kings, even juſt as many yeares as the Children of <hi>Iſrael</hi> did wander in the Wilderneſſe before they came unto reſt, God hath now delivered us from that ſervitude, and wee are very neere entring into the Land of <hi>Canaan, viz.</hi> liberty, if we repine not at Gods mercies, nor rebell againſt his authority, wee ſhall aſſu<g ref="char:EOLhyphen"/>redly enjoy it.</p>
+               <p n="2">2 The grand cauſe of the Scots being at variance and enmity with us, is our change of government, and why may not <hi>England</hi> change againe a third and a fourth time, if they ſee good, and aske <hi>Scotland</hi> no leave, it being a right in all Nations to alter their govern<g ref="char:EOLhyphen"/>ment, for the publique benefit; <hi>Scotland</hi> may take notice, how long they were in former times without a King, and how little power they afforded him, certainely it was their antient cuſtome, to hold his Noſe to it, with the Bridle both of Kirke and State, ſo that this is no new or ſtrange Embleme of them; the difference betwixt them is this, that wee having caſt off their King, it is their deſigne to ſettle him upon us againe, by force, they proclaimed him King of Great <hi>Brittaine,</hi> &amp;c. But wee have more reaſon to breake the line of ſucceſſion, made up of tyranny, cruelty and oppreſſion: The <hi>Norman</hi> baſtard the Father of them all, had no other title to the Crowne but his long ſword, by which he became Conquerour againſt the Lawes and liberties of <hi>England,</hi> and after him proceded his Sonnes, and their Succeſſors obtained the Crowne, one from another, by power and policie, till the time of <hi>Henry</hi> the ſeventh, who laid claime to it by the ſame title alſo, of Conqueſt, after he had ſlaine <hi>Richard</hi> the third, ſave that he deſcended from a Baſtard of <hi>John</hi> of <hi>Ga<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt,</hi> and from this King, did our late Tyrant King CHARLES derive his title, he being deſcended from a Daughter of that <hi>Henry</hi> married into <hi>Scotland,</hi> by vertue whereof his Father K. <hi>James,</hi> by the unhappy policie of ſome Courtiers, did obtaine the Crowne, who was then attended with a heavy curſe, and terrible plague, into <hi>England,</hi> if it were no more but the weake and unjuſt title of the uſurping pretenders, the Engliſh Nation have ſufficient cauſe to caſt off this accurſed Monarchie, but which is more, through all their reigne hath been exerciſed, a conſtant courſe of tyranny, for not one of them ſince <hi>William</hi> the Conquerour, but did exceedingly abuſe, and enſlave the people, as the Chronicle makes mention: So that it was nobly done of our Parliament to lay hold on a ſeaſon of liberty, after the Nation had groaned under ſlaverie, for five or ſix hundred yeares. Suppoſe the title of this young King had been good and right, hath not the Fathers treaſon cut off the Sonne? hath he not from the beginning been in actuall warre againſt the Parliament? hath he not had his Fathers Counſellours, and principles? and hath he not been bred up under poperie and prelacie, and hath had hand in the blood of the three Nations, making uſe of all Parties, to ſerve his owne malicious ends and intereſt, and are not <hi>Englands</hi> eyes yet open, to ſee what will be the ſad condion, and wofull effects of it? If they ſhould be ſo baſe ſpirited, as to ſuffer this young pretender to take rooting againe, to bring them back into ſlaverie, and Monarchcall bondage, a yoake too heavy for <hi>Englands</hi> ſhoulders to beare.</p>
+               <p>I wil conclude with an old Propheſie of a Jeſuite in <hi>Hen. VII.</hi> time, of all the Kings and Queens that ſhould ſucceed in <hi>England;</hi> thus, <hi>Mars, Puer, Alecto, Virgo, Vulpes, Leo, Nallus.</hi> The Engliſh of it is this, <hi>Mars</hi> the God of war, <hi>Hen.</hi> 8. <hi>Puer,</hi> a Boy, <hi>Edward</hi> the 6. <hi>Alect<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> a Fury, Queene <hi>Mary, Virgo,</hi> a maiden Queen <hi>Elizabeth, Vulper,</hi> a Fox King <hi>James, Leo</hi> a Lyon King <hi>Charles, Nullus,</hi> None.</p>
+               <closer>
+                  <signed>By <hi>J. L. Philalethes.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed 1651.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
